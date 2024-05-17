@@ -1,5 +1,5 @@
-use art_charan::mix;
-use art_charan::PrimaryColor;
+use charan_art::mix;
+use charan_art::PrimaryColor;
 
 fn main() {
     let red = PrimaryColor::Red;
